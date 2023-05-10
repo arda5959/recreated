@@ -1,4 +1,4 @@
-                        Vanilla + adds and beautifies minecraft extra blocks and items
+                        Recreated adds and beautifies minecraft extra blocks and items
 
           ---------------------------------------------------------------------------------------------
        
