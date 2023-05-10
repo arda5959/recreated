@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:warped_stem"
+    },
+    "1": {
+      "item": "minecraft:warped_stem"
+    },
+    "2": {
+      "item": "minecraft:warped_stem"
+    },
+    "3": {
+      "item": "minecraft:warped_stem"
+    }
+  },
+  "result": {
+    "item": "minecraft:warped_hyphae",
+    "count": 4
+  }
+}

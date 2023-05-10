@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:stripped_crimson_stem"
+    },
+    "1": {
+      "item": "minecraft:stripped_crimson_stem"
+    },
+    "2": {
+      "item": "minecraft:stripped_crimson_stem"
+    },
+    "3": {
+      "item": "minecraft:stripped_crimson_stem"
+    }
+  },
+  "result": {
+    "item": "minecraft:stripped_crimson_hyphae",
+    "count": 4
+  }
+}

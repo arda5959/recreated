@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:stripped_acacia_log"
+    },
+    "1": {
+      "item": "minecraft:stripped_acacia_log"
+    },
+    "2": {
+      "item": "minecraft:stripped_acacia_log"
+    },
+    "3": {
+      "item": "minecraft:stripped_acacia_log"
+    }
+  },
+  "result": {
+    "item": "minecraft:stripped_acacia_wood",
+    "count": 4
+  }
+}

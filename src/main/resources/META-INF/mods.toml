@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[45,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="recreatewd"
+version="1.0"
+displayName="Recreated"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://mcreator.net"
+logoFile="logo.png"
+authors="jammer"
+description='''
+-Recreate beautifies your default minecraft and adds new items and features.
+'''
+
+[[dependencies.recreatewd]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.4]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+
